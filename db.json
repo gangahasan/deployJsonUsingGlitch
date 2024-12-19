@@ -47,5 +47,22 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "todos": [
+    {
+      "id": "1",
+      "title": "Finish coding project",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Review articles",
+      "completed": true
+    }
   ]
 }
